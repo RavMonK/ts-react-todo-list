@@ -26,5 +26,5 @@ if build failed try use this command and then build again
 Start React
 
 ```bash
-  npm run start
+  npm start
 ```
